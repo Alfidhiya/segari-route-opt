@@ -1,0 +1,16 @@
+wh_id,wh_document_id,wh_name,adress,latitude,longitude,tipe_wh
+97,GDS,Gading Serpong,"Ruko Bolsena blok F 51. Jalan Boulevard raya gading serpong, Curug Sangereng, Kelapa Dua, Tangerang Regency",-6.2642969,106.6184781,SDD_WAREHOUSE
+2,CRD,Cirendeu,"Jl. Raya Cirendeu 1, Cireundeu, Kec. Ciputat Tim., Kota Tangerang Selatan, Banten 15419 Patokan: (Rumah Putih di Tikungan, sebrang Plaza Ban)",-6.30456531,106.773981,SDD_WAREHOUSE
+70,KJT,Kramat Jati,"Jl. Raya Jakarta-Bogor 5 No.11, RT.3/RW.10, Kp. Parung Jambu, Batu Ampar, Kec. Kramat jati, Kota Jakarta Timur, Daerah Khusus Ibukota Jakarta 13540",-6.278789303,106.8699961,SDD_WAREHOUSE
+80,BKS,Bekasi,"Jl. Raya Pekayon No.10, RT.003/RW.021, Pekayon Jaya, Kec. Bekasi Sel., Kota Bks, Jawa Barat 17148",-6.267146,106.983637,SDD_WAREHOUSE
+83,CBR,Cibubur,"Jl. Wibawa Mukti II Jl. Sumur Binong, RT.002/RW.012, Jatisari, Kec. Jatiasih, Kota Bks, Jawa Barat 17426",-6.352313636,106.938566,SDD_WAREHOUSE
+91,MPG,Mampang,"Jl. Duren Tiga Selatan VII No.7 3, RT.4/RW.2, Duren Tiga, Kec. Pancoran, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12760",-6.259740032,106.8292741,SDD_WAREHOUSE
+6,RWG,Rawamangun,"Jalan Layur no 3A RT 12 RW 5, Jati, Pulogadung",-6.197420227,106.898011,SDD_WAREHOUSE
+95,KBG,Kembangan,"Jl. Mesjid At-Taqwa No.100, RT.6/RW.2, Kembangan Utara, Kec. Kembangan, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11610",-6.176475469,106.7384851,SDD_WAREHOUSE
+18,BSD,BSD,Kavling Taman Tekno Tahap 8 Blok H7 Nomor 18,-6.329140612,106.6785366,SDD_WAREHOUSE
+269,STB,Setiabudi,"Jl. Guntur Raya No.59, RT.13/RW.5, Ps. Manggis, Kecamatan Setiabudi, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12970",-6.2108333,106.8350556,SDD_WAREHOUSE
+546,MBS,Mangga Besar,"Jl. Raya Mangga Besar No.23, RT.9/RW.5, Mangga Besar, Kec. Taman Sari, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11180",-6.149335,106.819643,SDD_WAREHOUSE
+37,DMT,Daan Mogot,"Jl. Halim Perdana Kusuma No.61, RT.005/RW.004, Batuceper, Kec. Batuceper, Kota Tangerang, Banten 15122",-6.157437321,106.675057,PROCESSING_CENTRE
+75,DMG,Dry Goods Daan Mogot,"PT. POLYCHEM INDONESIA Tbk, Poris Plawad, Kec. Cipondoh, Kota Tangerang, Banten (Gudang 1 A)",-6.165699625,106.6643853,PROCESSING_CENTRE
+90,KL_CKG,Kula-Cengkareng,"Jalan Utama, RT.4/RW.3, Cengkareng Bar., Kecamatan Cengkareng, Kota Jakarta Barat, Daerah Khusus Ibukota Jakarta 11730",-6.149867588,106.7263565,SDD_WAREHOUSE
+89,KL_KJ,Kula-Koja,"Jl. Kramat Jaya Raya No.2a, RT.1/RW.13, Semper Bar., Kec. Cilincing, Jkt Utara, Daerah Khusus Ibukota Jakarta 14270",-6.105320037,106.9183381,SDD_WAREHOUSE

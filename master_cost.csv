@@ -1,0 +1,5 @@
+tipe_kendaraan,rasio_bbm,harga_bbm_per_liter,cost_toll_per_km,sewa_armada_per_jam,driver_cost_per_jam
+CDE,8,"6,800","1,500","12,123","16,667"
+CDEL,8,"6,800","1,500","12,123","16,667"
+BLINDVAN,9,"10,000","1,500","5,550","16,667"
+THERMO,6,"6,800","1,500","18,783","16,667"
